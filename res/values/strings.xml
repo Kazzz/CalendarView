@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalendarTest</string>
+    <string name="guidance_year">年</string>
+    <string name="guidance_month"> 月</string>
+    <string name="guidance_hour"> 時</string>
+    <string name="guidance_minute"> 分</string>
+    <string name="year_month_dialog_title">年月を設定します</string>
+    <string name="guidance_calendar_view"> 日付を選択してください</string>
+    <string name="button_set">設定</string>
+    <string name="button_cancel">キャンセル</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <color name="calendar_background">#d0ffffff</color>
+   <color name="calendar_hilite">#ffffffff</color>
+   <color name="calendar_light">#64c6d4ef</color>
+   <color name="calendar_dark">#6456648f</color>
+   <color name="calendar_foreground">#ff000000</color>
+   <color name="calendar_hint_0">#64ff0000</color>
+   <color name="calendar_hint_1">#6400ff80</color>
+   <color name="calendar_hint_2">#2000ff80</color>
+   <color name="calendar_selected">#64ffcc00</color>
+   <color name="calendar_holiday">#ffFF0000</color>
+   <color name="calendar_saturday">#ff0000FF</color>
+<color name="shadowColor">#BB000000</color>
+</resources>
